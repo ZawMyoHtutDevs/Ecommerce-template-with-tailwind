@@ -8,5 +8,8 @@ ecommerce Template ကို Tailwind နှင့် Design ပြန်ကိ�
 
 # Install
 
-- npm update
-- npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+```bash
+npm update
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+```
+
