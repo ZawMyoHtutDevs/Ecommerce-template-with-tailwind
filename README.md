@@ -2,6 +2,10 @@
 
 ecommerce Template ကို Tailwind နှင့် Design ပြန်ကိုင်သော Project ဖြစ်သည်
 
+- Flobite (component libary)
+- Owl Carousel
+- Heroicons (icon)
+
 # Tailwind libary ref
 
 Flowbite (https://flowbite.com/)
