@@ -5,3 +5,16 @@ p, a, li, div{
 }
 /* Font end */
 
+/* owl carousel */
+.owl-nav {
+    float: right;
+    margin-top: 10px;
+}
+.owl-nav button{
+    width: 50px;
+    display: block;
+    border-radius: 25px;
+    border: 1px solid gray !important;
+    margin-left: 10px;
+    float: left;
+}
